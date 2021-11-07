@@ -5,10 +5,6 @@ Methodologies used are from the 2019 study by Sawaga et. al, Satellite Derived B
 
 Imagery data was downloaded from the USGS Earth Explorer and is stored in the data directory.
 
-Created:
-Created by:
+Created: 11/7/2021
 
-----------------------------------------------------------------------------------------------------
-Updated:
-Updated by:
-Summary of update:
+Created by: Maggie Satterfield (amtsatterfield@gmail.com)
